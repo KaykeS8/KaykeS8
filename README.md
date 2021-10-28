@@ -1,4 +1,4 @@
-### ola, eu sou kayke simao🐱‍💻
+# olá, eu sou kayke simao um estudante de front-end🐱‍💻
 
 
 - 🌱 Estudo HTML5 CSS e JavaScript
