@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudo HTML5 CSS e JavaScript
-- 💬 Contate-me no email: kayke.sima@gmail.com
+- 💬 Entre em contato no email: kayke.sima@gmail.com
 
 <div align = "center">
   <a href="https://github.com/kaykeS8">
