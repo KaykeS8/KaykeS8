@@ -2,7 +2,7 @@
 
 
 - 🌱 Estudo HTML5 CSS e JavaScript
--🖋 tenho interesse em React, NodeJs e MongoDb 
+- 🖋 tenho interesse em React, NodeJs e MongoDb  
 - 💬 Entre em contato no email: kayke.sima@gmail.com
 
 <div align = "center">
