@@ -1,8 +1,8 @@
 # olá, eu sou kayke simao um estudante de desenvolvimento Web🐱‍💻
 
 
-- 🌱 Estudo HTML5 CSS e JavaScript
-- 🖋 tenho interesse em React
+- 🌱 tenho conhecimento em HTML5 CSS3 e JAVASCRIPT
+- 🖋 estudando REACT.JS 
 - 💬 Entre em contato no email: kayke.sima@gmail.com
 
 <div align = "center">
