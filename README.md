@@ -2,7 +2,7 @@
 
 
 - 🌱 tenho conhecimento em HTML5 CSS3 e JAVASCRIPT
-- 🖋 estudando REACT.JS 
+- 🖋 estudando REACT.JS e TYPESCRIPT
 - 💬 Entre em contato no email: kayke.sima@gmail.com
 
 <div align = "center">
