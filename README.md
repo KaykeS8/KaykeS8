@@ -1,8 +1,7 @@
 # olá, eu sou kayke simao um desenvolvedor front-end🐱‍💻
 
 
-- 🌱 tenho conhecimento em HTML5,CSS3,JAVASCRIPT e TYPESCRIPT
-- 🖋 estudando REACT.JS
+- 🌱 tenho conhecimento em HTML5,CSS3,JAVASCRIPT, TYPESCRIPT, React.js, Ruby
 - 💬 Entre em contato no email: kayke.simao@gmail.com
 
 <div align = "center">
