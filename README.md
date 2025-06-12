@@ -1,7 +1,7 @@
 # olá, eu sou kayke simao um desenvolvedor Full-stack🐱‍💻
 
 
-- 🌱 tenho conhecimento em Rails, React.js, Ruby, Elixir, SQL
+- 🌱 tenho conhecimento em Elixir, Phoneix, Node.js, React.js, SQL
 - 💬 Entre em contato no email: kayke.simao@gmail.com
 
 <div align = "center">
