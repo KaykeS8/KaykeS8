@@ -1,4 +1,4 @@
-# olá, eu sou kayke simao um desenvolvedor Full-stack🐱‍💻
+# olá, eu sou kayke simao um desenvolvedor Back-end🐱‍💻
 
 
 - 🌱 tenho conhecimento em Elixir, Phoneix, Node.js, React.js, SQL
