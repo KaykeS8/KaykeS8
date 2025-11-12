@@ -1,7 +1,7 @@
 # olá, eu sou kayke simao um desenvolvedor Back-end🐱‍💻
 
 
-- 🌱 tenho conhecimento em Elixir, Phoneix, Node.js, React.js, SQL
+- 🌱 tenho conhecimento em Java, Spring Boot, SQL, Javascript
 - 💬 Entre em contato no email: kayke.simao@gmail.com
 
 <div align = "center">
