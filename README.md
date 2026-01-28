@@ -1,7 +1,7 @@
-# olá, eu sou kayke simao um desenvolvedor Back-end🐱‍💻
+# olá, eu sou kayke simao um desenvolvedor Full-Stac🐱‍💻
 
 
-- 🌱 tenho conhecimento em Java, Spring Boot, SQL, Javascript
+- 🌱 tenho conhecimento em Java, Spring Boot, SQL, Javascript, Angular, Postgresql
 - 💬 Entre em contato no email: kayke.simao@gmail.com
 
 <div align = "center">
