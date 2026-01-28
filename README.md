@@ -1,3 +1,4 @@
+```js
 import Desenvolvedor from "kaykeS8";
 
 class SobreMim extends Desenvolvedor {
@@ -10,3 +11,4 @@ class Skills extends Desenvolvedor {
   linguagens = ["Java", "Javascript", "SQL", "Postgresql"];
   frameworks = ["Spring boot", "Angular"];
 }
+```
