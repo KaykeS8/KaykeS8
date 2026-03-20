@@ -7,10 +7,10 @@
 </div>
 
 <div align="center">
-  <a href="SEU_TWITTER">
+  <a href="https://x.com/KykSimao7">
     <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" />
   </a>
-  <a href="SEU_LINKEDIN">
+  <a href="https://www.linkedin.com/in/kayke-simao-592316226/?originalSubdomain=br">
     <img src="https://img.shields.io/badge/LinkedIn-black?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="SEU_PORTFOLIO">
@@ -26,7 +26,6 @@ Backend developer focused on building scalable and maintainable systems using Ja
 
 - 💻 Currently improving my backend skills and system design
 - 📚 Studying best practices in software architecture and clean code
-- 🎯 Goal: Become a Software Engineer and evolve into a Solution Architect
 
 ---
 
