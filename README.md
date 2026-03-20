@@ -2,13 +2,18 @@
 import Desenvolvedor from "kaykeS8";
 
 class SobreMim extends Desenvolvedor {
-  nome = "Kayke Simão";
-  area = "Full Stack";
-  local = "Belo horizonte - MG";
+    nome = "Kayke Simão";
+    cargo = "Back-end Developer (Java)";
+    local = "Belo Horizonte - MG, Brasil";
+
+    resumo = "Back-end em Java com foco em APIs REST, Spring Boot e boas práticas.";
 }
 
 class Skills extends Desenvolvedor {
-  linguagens = ["Java", "Javascript", "SQL", "Postgresql"];
-  tools = ["Spring boot", "React"];
+    stack = [
+        "Java", "Spring Boot", "JPA/Hibernate",
+        "PostgreSQL", "MySQL", "SQL"
+        "Docker", "Git"
+    ];
 }
 ```
