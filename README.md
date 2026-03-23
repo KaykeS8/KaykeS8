@@ -46,6 +46,7 @@ Building real-world backend projects to master:
 Java
 Spring Boot
 JPA / Hibernate
+JUnit
 PostgreSQL
 MySQL
 SQL
