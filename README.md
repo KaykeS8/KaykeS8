@@ -24,7 +24,7 @@
 
 Backend developer focused on building scalable and maintainable systems using Java ecosystem.
 
-- 💻 Currently improving my backend skills and system design
+- 💻 Currently improving my backend skills
 - 📚 Studying best practices in software architecture and clean code
 
 ---
