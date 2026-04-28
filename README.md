@@ -1,9 +1,9 @@
 <div align="center">
   <img src="https://pbs.twimg.com/profile_banners/964974856856133632/1733852827/1500x500" alt="Banner" width="100%" height="200" style="object-fit: cover;">
   
-  ## Backend Java Developer
+  ## Desenvolvedor Backend Java
   
-  *"Building solid systems, one line of code at a time."*
+  *"Construindo sistemas sólidos, uma linha de código por vez."*
 </div>
 
 <div align="center">
@@ -20,27 +20,27 @@
 
 ---
 
-### 🚀 About Me
+### 🚀 Sobre Mim
 
-Backend developer focused on building scalable and maintainable systems using Java ecosystem.
+Desenvolvedor backend focado em construir sistemas escaláveis e de fácil manutenção usando o ecossistema Java.
 
-- 💻 Currently improving my backend skills
-- 📚 Studying best practices in software architecture and clean code
+- 💻 Aprimorando continuamente minhas habilidades no backend
+- 📚 Estudando boas práticas de arquitetura de software e código limpo
 
 ---
 
-### 🧠 Current Focus
+### 🧠 Foco Atual
 
-Building real-world backend projects to master:
+Desenvolvendo projetos backend reais para dominar:
 
-- APIs RESTful with Java & Spring Boot
-- Database modeling and performance
+- APIs RESTful com Java & Spring Boot
+- Modelagem e performance de banco de dados
 - Clean Architecture & Design Patterns
-- Docker & system observability
+- Docker & observabilidade de sistemas
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Stack Tecnológica
 
 ```bash
 Java
@@ -52,3 +52,4 @@ MySQL
 SQL
 Docker
 Git
+```
