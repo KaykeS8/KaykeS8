@@ -48,8 +48,6 @@ Spring Boot
 JPA / Hibernate
 JUnit
 PostgreSQL
-MySQL
 SQL
-Docker
 Git
 ```
