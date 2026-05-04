@@ -2,8 +2,6 @@
   <img src="https://pbs.twimg.com/profile_banners/964974856856133632/1733852827/1500x500" alt="Banner" width="100%" height="200" style="object-fit: cover;">
   
   ## Desenvolvedor Backend Java
-  
-  *"Construindo sistemas sólidos, uma linha de código por vez."*
 </div>
 
 <div align="center">
